@@ -1,0 +1,32 @@
+{
+  "datasets": {
+    "MSRS": {"training_pairs": 1083, "test_pairs": 361},
+    "TNO": {"test_pairs": 49, "split": "screened paired subset"},
+    "RoadScene": {"test_pairs": 221},
+    "LLVIP": {"test_pairs": 3463}
+  },
+  "training": {
+    "controlled_seed": 123,
+    "stability_seeds": [123, 456, 789],
+    "patch_size": 128,
+    "optimizer": "Adam",
+    "initial_learning_rate": 0.00002,
+    "optimizer_steps": 10000,
+    "micro_batch_size": 4,
+    "gradient_accumulation_steps": 3,
+    "effective_batch_size": 12,
+    "ema_decay": 0.999,
+    "evaluation_checkpoint": "step-10000 EMA"
+  },
+  "loss": {
+    "intensity_weight": 20,
+    "gradient_weight": 20,
+    "structure_weight": 10,
+    "rlv_weight": 1,
+    "rlv_window_size": 3,
+    "rlv_padding": "reflect",
+    "rlv_epsilon": 0.0001,
+    "ssim_window_size": 11,
+    "bigw_epsilon": 1e-8
+  }
+}

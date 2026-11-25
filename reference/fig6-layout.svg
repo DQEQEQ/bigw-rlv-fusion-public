@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1022.4pt" height="464.4pt" viewBox="0 0 1022.4 464.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T20:28:29.242062</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 464.4
+L 1022.4 464.4
+L 1022.4 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 67.4784 176.055517
+L 222.936922 176.055517
+L 222.936922 59.461626
+L 67.4784 59.461626
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p0c6440f1de)">
+    <image xlink:href="IMAGE_SLOT_01" id="image90bc703a60" transform="scale(1 -1) translate(0 -116.7)" x="67.4784" y="-59.355517" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 67.4784 176.055517
+L 67.4784 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 222.936922 176.055517
+L 222.936922 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 67.4784 176.055517
+L 222.936922 176.055517
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 67.4784 59.461626
+L 222.936922 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20323d" x="145.207661" y="46.461626" transform="rotate(-0 145.207661 46.461626)">IR</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 106.464483 87.517031
+L 164.761428 87.517031
+L 164.761428 131.23974
+L 106.464483 131.23974
+L 106.464483 87.517031
+z
+" clip-path="url(#p0c6440f1de)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_8">
+    <path d="M 225.735176 176.055517
+L 381.193698 176.055517
+L 381.193698 59.461626
+L 225.735176 59.461626
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p345d585f93)">
+    <image xlink:href="IMAGE_SLOT_02" id="image7b60fe538d" transform="scale(1 -1) translate(0 -116.7)" x="225.735176" y="-59.355517" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+   <g id="patch_9">
+    <path d="M 225.735176 176.055517
+L 225.735176 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 381.193698 176.055517
+L 381.193698 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 225.735176 176.055517
+L 381.193698 176.055517
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 225.735176 59.461626
+L 381.193698 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20323d" x="303.464437" y="46.461626" transform="rotate(-0 303.464437 46.461626)">VI</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 264.721258 87.517031
+L 323.018204 87.517031
+L 323.018204 131.23974
+L 264.721258 131.23974
+L 264.721258 87.517031
+z
+" clip-path="url(#p345d585f93)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_14">
+    <path d="M 383.991951 176.055517
+L 539.450473 176.055517
+L 539.450473 59.461626
+L 383.991951 59.461626
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p9d7bc43367)">
+    <image xlink:href="IMAGE_SLOT_03" id="imagec05376ba2b" transform="scale(1 -1) translate(0 -116.7)" x="383.991951" y="-59.355517" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6"/>
+   <g id="patch_15">
+    <path d="M 383.991951 176.055517
+L 383.991951 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 539.450473 176.055517
+L 539.450473 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 383.991951 176.055517
+L 539.450473 176.055517
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 383.991951 59.461626
+L 539.450473 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20323d" x="461.721212" y="46.461626" transform="rotate(-0 461.721212 46.461626)">Baseline</text>
+   </g>
+   <g id="patch_19">
+    <path d="M 422.978034 87.517031
+L 481.274979 87.517031
+L 481.274979 131.23974
+L 422.978034 131.23974
+L 422.978034 87.517031
+z
+" clip-path="url(#p9d7bc43367)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_20">
+    <path d="M 542.248727 176.055517
+L 697.707249 176.055517
+L 697.707249 59.461626
+L 542.248727 59.461626
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p7c1f8ad6a8)">
+    <image xlink:href="IMAGE_SLOT_04" id="image5a1d6787e3" transform="scale(1 -1) translate(0 -116.7)" x="542.248727" y="-59.355517" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_7"/>
+   <g id="matplotlib.axis_8"/>
+   <g id="patch_21">
+    <path d="M 542.248727 176.055517
+L 542.248727 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 697.707249 176.055517
+L 697.707249 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 542.248727 176.055517
+L 697.707249 176.055517
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 542.248727 59.461626
+L 697.707249 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20323d" x="619.977988" y="46.461626" transform="rotate(-0 619.977988 46.461626)">BI-GW</text>
+   </g>
+   <g id="patch_25">
+    <path d="M 581.234809 87.517031
+L 639.531755 87.517031
+L 639.531755 131.23974
+L 581.234809 131.23974
+L 581.234809 87.517031
+z
+" clip-path="url(#p7c1f8ad6a8)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_26">
+    <path d="M 700.505502 176.055517
+L 855.964024 176.055517
+L 855.964024 59.461626
+L 700.505502 59.461626
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p4dae07401a)">
+    <image xlink:href="IMAGE_SLOT_05" id="image25b0c91cd3" transform="scale(1 -1) translate(0 -116.7)" x="700.505502" y="-59.355517" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_9"/>
+   <g id="matplotlib.axis_10"/>
+   <g id="patch_27">
+    <path d="M 700.505502 176.055517
+L 700.505502 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 855.964024 176.055517
+L 855.964024 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 700.505502 176.055517
+L 855.964024 176.055517
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 700.505502 59.461626
+L 855.964024 59.461626
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20323d" x="778.234763" y="46.461626" transform="rotate(-0 778.234763 46.461626)">RLV-only</text>
+   </g>
+   <g id="patch_31">
+    <path d="M 739.491585 87.517031
+L 797.788531 87.517031
+L 797.788531 131.23974
+L 739.491585 131.23974
+L 739.491585 87.517031
+z
+" clip-path="url(#p4dae07401a)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_32">
+    <path d="M 858.762278 176.055517
+L 1014.2208 176.055517
+L 1014.2208 59.461626
+L 858.762278 59.461626
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p13d7546635)">
+    <image xlink:href="IMAGE_SLOT_06" id="imageb062804e64" transform="scale(1 -1) translate(0 -116.7)" x="858.762278" y="-59.355517" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_11"/>
+   <g id="matplotlib.axis_12"/>
+   <g id="patch_33">
+    <path d="M 858.762278 176.055517
+L 858.762278 59.461626
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 1014.2208 176.055517
+L 1014.2208 59.461626
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 858.762278 176.055517
+L 1014.2208 176.055517
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 858.762278 59.461626
+L 1014.2208 59.461626
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0a8179" x="936.491539" y="46.461626" transform="rotate(-0 936.491539 46.461626)">BI-GW+RLV (Ours)</text>
+   </g>
+   <g id="patch_37">
+    <path d="M 897.74836 87.517031
+L 956.045306 87.517031
+L 956.045306 131.23974
+L 897.74836 131.23974
+L 897.74836 87.517031
+z
+" clip-path="url(#p13d7546635)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_7">
+   <g id="patch_38">
+    <path d="M 67.4784 304.428946
+L 222.936922 304.428946
+L 222.936922 187.835054
+L 67.4784 187.835054
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p26ec2d3cea)">
+    <image xlink:href="IMAGE_SLOT_07" id="imaged49cd824a7" transform="scale(1 -1) translate(0 -116.7)" x="67.4784" y="-187.728946" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_13"/>
+   <g id="matplotlib.axis_14"/>
+   <g id="patch_39">
+    <path d="M 67.4784 304.428946
+L 67.4784 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 222.936922 304.428946
+L 222.936922 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 67.4784 304.428946
+L 222.936922 304.428946
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 67.4784 187.835054
+L 222.936922 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 70.028891 232.893735
+L 128.325837 232.893735
+L 128.325837 276.616445
+L 70.028891 276.616445
+L 70.028891 232.893735
+z
+" clip-path="url(#p26ec2d3cea)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_8">
+   <g id="patch_44">
+    <path d="M 225.735176 304.428946
+L 381.193698 304.428946
+L 381.193698 187.835054
+L 225.735176 187.835054
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p10e4929dbf)">
+    <image xlink:href="IMAGE_SLOT_08" id="imagec84f64891d" transform="scale(1 -1) translate(0 -116.7)" x="225.735176" y="-187.728946" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_15"/>
+   <g id="matplotlib.axis_16"/>
+   <g id="patch_45">
+    <path d="M 225.735176 304.428946
+L 225.735176 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 381.193698 304.428946
+L 381.193698 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 225.735176 304.428946
+L 381.193698 304.428946
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 225.735176 187.835054
+L 381.193698 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 228.285667 232.893735
+L 286.582613 232.893735
+L 286.582613 276.616445
+L 228.285667 276.616445
+L 228.285667 232.893735
+z
+" clip-path="url(#p10e4929dbf)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_9">
+   <g id="patch_50">
+    <path d="M 383.991951 304.428946
+L 539.450473 304.428946
+L 539.450473 187.835054
+L 383.991951 187.835054
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p8ddaa2fc0c)">
+    <image xlink:href="IMAGE_SLOT_09" id="image510b3d746e" transform="scale(1 -1) translate(0 -116.7)" x="383.991951" y="-187.728946" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_17"/>
+   <g id="matplotlib.axis_18"/>
+   <g id="patch_51">
+    <path d="M 383.991951 304.428946
+L 383.991951 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 539.450473 304.428946
+L 539.450473 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 383.991951 304.428946
+L 539.450473 304.428946
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_54">
+    <path d="M 383.991951 187.835054
+L 539.450473 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_55">
+    <path d="M 386.542443 232.893735
+L 444.839388 232.893735
+L 444.839388 276.616445
+L 386.542443 276.616445
+L 386.542443 232.893735
+z
+" clip-path="url(#p8ddaa2fc0c)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_10">
+   <g id="patch_56">
+    <path d="M 542.248727 304.428946
+L 697.707249 304.428946
+L 697.707249 187.835054
+L 542.248727 187.835054
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p1ca9e7c632)">
+    <image xlink:href="IMAGE_SLOT_10" id="imaged2178cc94a" transform="scale(1 -1) translate(0 -116.7)" x="542.248727" y="-187.728946" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_19"/>
+   <g id="matplotlib.axis_20"/>
+   <g id="patch_57">
+    <path d="M 542.248727 304.428946
+L 542.248727 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_58">
+    <path d="M 697.707249 304.428946
+L 697.707249 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_59">
+    <path d="M 542.248727 304.428946
+L 697.707249 304.428946
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_60">
+    <path d="M 542.248727 187.835054
+L 697.707249 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_61">
+    <path d="M 544.799218 232.893735
+L 603.096164 232.893735
+L 603.096164 276.616445
+L 544.799218 276.616445
+L 544.799218 232.893735
+z
+" clip-path="url(#p1ca9e7c632)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_11">
+   <g id="patch_62">
+    <path d="M 700.505502 304.428946
+L 855.964024 304.428946
+L 855.964024 187.835054
+L 700.505502 187.835054
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pa7567da40a)">
+    <image xlink:href="IMAGE_SLOT_11" id="image08d0063d85" transform="scale(1 -1) translate(0 -116.7)" x="700.505502" y="-187.728946" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_21"/>
+   <g id="matplotlib.axis_22"/>
+   <g id="patch_63">
+    <path d="M 700.505502 304.428946
+L 700.505502 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_64">
+    <path d="M 855.964024 304.428946
+L 855.964024 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_65">
+    <path d="M 700.505502 304.428946
+L 855.964024 304.428946
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_66">
+    <path d="M 700.505502 187.835054
+L 855.964024 187.835054
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_67">
+    <path d="M 703.055994 232.893735
+L 761.352939 232.893735
+L 761.352939 276.616445
+L 703.055994 276.616445
+L 703.055994 232.893735
+z
+" clip-path="url(#pa7567da40a)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_12">
+   <g id="patch_68">
+    <path d="M 858.762278 304.428946
+L 1014.2208 304.428946
+L 1014.2208 187.835054
+L 858.762278 187.835054
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#peb9ec6996c)">
+    <image xlink:href="IMAGE_SLOT_12" id="image93ed15eb7d" transform="scale(1 -1) translate(0 -116.7)" x="858.762278" y="-187.728946" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_23"/>
+   <g id="matplotlib.axis_24"/>
+   <g id="patch_69">
+    <path d="M 858.762278 304.428946
+L 858.762278 187.835054
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_70">
+    <path d="M 1014.2208 304.428946
+L 1014.2208 187.835054
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_71">
+    <path d="M 858.762278 304.428946
+L 1014.2208 304.428946
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_72">
+    <path d="M 858.762278 187.835054
+L 1014.2208 187.835054
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_73">
+    <path d="M 861.312769 232.893735
+L 919.609715 232.893735
+L 919.609715 276.616445
+L 861.312769 276.616445
+L 861.312769 232.893735
+z
+" clip-path="url(#peb9ec6996c)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_13">
+   <g id="patch_74">
+    <path d="M 67.4784 432.802374
+L 222.936922 432.802374
+L 222.936922 316.208483
+L 67.4784 316.208483
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p21049d860a)">
+    <image xlink:href="IMAGE_SLOT_13" id="imagedcc9292d97" transform="scale(1 -1) translate(0 -116.7)" x="67.4784" y="-316.102374" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_25"/>
+   <g id="matplotlib.axis_26"/>
+   <g id="patch_75">
+    <path d="M 67.4784 432.802374
+L 67.4784 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_76">
+    <path d="M 222.936922 432.802374
+L 222.936922 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_77">
+    <path d="M 67.4784 432.802374
+L 222.936922 432.802374
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_78">
+    <path d="M 67.4784 316.208483
+L 222.936922 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_79">
+    <path d="M 134.398436 349.121967
+L 202.411539 349.121967
+L 202.411539 400.131794
+L 134.398436 400.131794
+L 134.398436 349.121967
+z
+" clip-path="url(#p21049d860a)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_14">
+   <g id="patch_80">
+    <path d="M 225.735176 432.802374
+L 381.193698 432.802374
+L 381.193698 316.208483
+L 225.735176 316.208483
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p20295cfd57)">
+    <image xlink:href="IMAGE_SLOT_14" id="image7d341a86c2" transform="scale(1 -1) translate(0 -116.7)" x="225.735176" y="-316.102374" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_27"/>
+   <g id="matplotlib.axis_28"/>
+   <g id="patch_81">
+    <path d="M 225.735176 432.802374
+L 225.735176 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_82">
+    <path d="M 381.193698 432.802374
+L 381.193698 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_83">
+    <path d="M 225.735176 432.802374
+L 381.193698 432.802374
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_84">
+    <path d="M 225.735176 316.208483
+L 381.193698 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_85">
+    <path d="M 292.655211 349.121967
+L 360.668315 349.121967
+L 360.668315 400.131794
+L 292.655211 400.131794
+L 292.655211 349.121967
+z
+" clip-path="url(#p20295cfd57)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_15">
+   <g id="patch_86">
+    <path d="M 383.991951 432.802374
+L 539.450473 432.802374
+L 539.450473 316.208483
+L 383.991951 316.208483
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p48d768d081)">
+    <image xlink:href="IMAGE_SLOT_15" id="image41fee550c2" transform="scale(1 -1) translate(0 -116.7)" x="383.991951" y="-316.102374" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_29"/>
+   <g id="matplotlib.axis_30"/>
+   <g id="patch_87">
+    <path d="M 383.991951 432.802374
+L 383.991951 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_88">
+    <path d="M 539.450473 432.802374
+L 539.450473 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_89">
+    <path d="M 383.991951 432.802374
+L 539.450473 432.802374
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_90">
+    <path d="M 383.991951 316.208483
+L 539.450473 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_91">
+    <path d="M 450.911987 349.121967
+L 518.92509 349.121967
+L 518.92509 400.131794
+L 450.911987 400.131794
+L 450.911987 349.121967
+z
+" clip-path="url(#p48d768d081)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_16">
+   <g id="patch_92">
+    <path d="M 542.248727 432.802374
+L 697.707249 432.802374
+L 697.707249 316.208483
+L 542.248727 316.208483
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pf45cf2625b)">
+    <image xlink:href="IMAGE_SLOT_16" id="image65fc6086e7" transform="scale(1 -1) translate(0 -116.7)" x="542.248727" y="-316.102374" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_31"/>
+   <g id="matplotlib.axis_32"/>
+   <g id="patch_93">
+    <path d="M 542.248727 432.802374
+L 542.248727 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_94">
+    <path d="M 697.707249 432.802374
+L 697.707249 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_95">
+    <path d="M 542.248727 432.802374
+L 697.707249 432.802374
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_96">
+    <path d="M 542.248727 316.208483
+L 697.707249 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_97">
+    <path d="M 609.168762 349.121967
+L 677.181866 349.121967
+L 677.181866 400.131794
+L 609.168762 400.131794
+L 609.168762 349.121967
+z
+" clip-path="url(#pf45cf2625b)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_17">
+   <g id="patch_98">
+    <path d="M 700.505502 432.802374
+L 855.964024 432.802374
+L 855.964024 316.208483
+L 700.505502 316.208483
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p3185c0b881)">
+    <image xlink:href="IMAGE_SLOT_17" id="image6d101d4b17" transform="scale(1 -1) translate(0 -116.7)" x="700.505502" y="-316.102374" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_33"/>
+   <g id="matplotlib.axis_34"/>
+   <g id="patch_99">
+    <path d="M 700.505502 432.802374
+L 700.505502 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_100">
+    <path d="M 855.964024 432.802374
+L 855.964024 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_101">
+    <path d="M 700.505502 432.802374
+L 855.964024 432.802374
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_102">
+    <path d="M 700.505502 316.208483
+L 855.964024 316.208483
+" style="fill: none; stroke: #bfcbd0; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_103">
+    <path d="M 767.425538 349.121967
+L 835.438641 349.121967
+L 835.438641 400.131794
+L 767.425538 400.131794
+L 767.425538 349.121967
+z
+" clip-path="url(#p3185c0b881)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_18">
+   <g id="patch_104">
+    <path d="M 858.762278 432.802374
+L 1014.2208 432.802374
+L 1014.2208 316.208483
+L 858.762278 316.208483
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p53cffcb107)">
+    <image xlink:href="IMAGE_SLOT_18" id="image492aebe4b5" transform="scale(1 -1) translate(0 -116.7)" x="858.762278" y="-316.102374" width="155.7" height="116.7"/>
+   </g>
+   <g id="matplotlib.axis_35"/>
+   <g id="matplotlib.axis_36"/>
+   <g id="patch_105">
+    <path d="M 858.762278 432.802374
+L 858.762278 316.208483
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_106">
+    <path d="M 1014.2208 432.802374
+L 1014.2208 316.208483
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_107">
+    <path d="M 858.762278 432.802374
+L 1014.2208 432.802374
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_108">
+    <path d="M 858.762278 316.208483
+L 1014.2208 316.208483
+" style="fill: none; stroke: #0a8179; stroke-width: 1.45; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_109">
+    <path d="M 925.682314 349.121967
+L 993.695417 349.121967
+L 993.695417 400.131794
+L 925.682314 400.131794
+L 925.682314 349.121967
+z
+" clip-path="url(#p53cffcb107)" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter"/>
+   </g>
+  </g>
+  <g id="axes_19">
+   <g id="patch_110">
+    <path d="M 163.085391 171.974731
+L 218.273167 171.974731
+L 218.273167 130.5839
+L 163.085391 130.5839
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p86b290aa4a)">
+    <image xlink:href="IMAGE_SLOT_19" id="imagedcb6e7b020" transform="scale(1 -1) translate(0 -41.4)" x="163.085391" y="-130.574731" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_37"/>
+   <g id="matplotlib.axis_38"/>
+   <g id="patch_111">
+    <path d="M 163.085391 171.974731
+L 163.085391 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_112">
+    <path d="M 218.273167 171.974731
+L 218.273167 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_113">
+    <path d="M 163.085391 171.974731
+L 218.273167 171.974731
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_114">
+    <path d="M 163.085391 130.5839
+L 218.273167 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_20">
+   <g id="patch_115">
+    <path d="M 321.342167 171.974731
+L 376.529942 171.974731
+L 376.529942 130.5839
+L 321.342167 130.5839
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p35ed291979)">
+    <image xlink:href="IMAGE_SLOT_20" id="image1d791db0bd" transform="scale(1 -1) translate(0 -41.4)" x="321.342167" y="-130.574731" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_39"/>
+   <g id="matplotlib.axis_40"/>
+   <g id="patch_116">
+    <path d="M 321.342167 171.974731
+L 321.342167 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_117">
+    <path d="M 376.529942 171.974731
+L 376.529942 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_118">
+    <path d="M 321.342167 171.974731
+L 376.529942 171.974731
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_119">
+    <path d="M 321.342167 130.5839
+L 376.529942 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_21">
+   <g id="patch_120">
+    <path d="M 479.598942 171.974731
+L 534.786718 171.974731
+L 534.786718 130.5839
+L 479.598942 130.5839
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p9ec8d0a223)">
+    <image xlink:href="IMAGE_SLOT_21" id="image1514039b35" transform="scale(1 -1) translate(0 -41.4)" x="479.598942" y="-130.574731" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_41"/>
+   <g id="matplotlib.axis_42"/>
+   <g id="patch_121">
+    <path d="M 479.598942 171.974731
+L 479.598942 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_122">
+    <path d="M 534.786718 171.974731
+L 534.786718 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_123">
+    <path d="M 479.598942 171.974731
+L 534.786718 171.974731
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_124">
+    <path d="M 479.598942 130.5839
+L 534.786718 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_22">
+   <g id="patch_125">
+    <path d="M 637.855718 171.974731
+L 693.043493 171.974731
+L 693.043493 130.5839
+L 637.855718 130.5839
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p6184eb6e72)">
+    <image xlink:href="IMAGE_SLOT_22" id="image916107fad7" transform="scale(1 -1) translate(0 -41.4)" x="637.855718" y="-130.574731" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_43"/>
+   <g id="matplotlib.axis_44"/>
+   <g id="patch_126">
+    <path d="M 637.855718 171.974731
+L 637.855718 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_127">
+    <path d="M 693.043493 171.974731
+L 693.043493 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_128">
+    <path d="M 637.855718 171.974731
+L 693.043493 171.974731
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_129">
+    <path d="M 637.855718 130.5839
+L 693.043493 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_23">
+   <g id="patch_130">
+    <path d="M 796.112493 171.974731
+L 851.300269 171.974731
+L 851.300269 130.5839
+L 796.112493 130.5839
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p51508315f7)">
+    <image xlink:href="IMAGE_SLOT_23" id="imagedbd273d25b" transform="scale(1 -1) translate(0 -41.4)" x="796.112493" y="-130.574731" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_45"/>
+   <g id="matplotlib.axis_46"/>
+   <g id="patch_131">
+    <path d="M 796.112493 171.974731
+L 796.112493 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_132">
+    <path d="M 851.300269 171.974731
+L 851.300269 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_133">
+    <path d="M 796.112493 171.974731
+L 851.300269 171.974731
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_134">
+    <path d="M 796.112493 130.5839
+L 851.300269 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_24">
+   <g id="patch_135">
+    <path d="M 954.369269 171.974731
+L 1009.557044 171.974731
+L 1009.557044 130.5839
+L 954.369269 130.5839
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pfb6f7ef668)">
+    <image xlink:href="IMAGE_SLOT_24" id="image4020ca3a5f" transform="scale(1 -1) translate(0 -41.4)" x="954.369269" y="-130.574731" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_47"/>
+   <g id="matplotlib.axis_48"/>
+   <g id="patch_136">
+    <path d="M 954.369269 171.974731
+L 954.369269 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_137">
+    <path d="M 1009.557044 171.974731
+L 1009.557044 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_138">
+    <path d="M 954.369269 171.974731
+L 1009.557044 171.974731
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_139">
+    <path d="M 954.369269 130.5839
+L 1009.557044 130.5839
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_25">
+   <g id="patch_140">
+    <path d="M 163.085391 233.306672
+L 218.273167 233.306672
+L 218.273167 191.91584
+L 163.085391 191.91584
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p5662e0c67e)">
+    <image xlink:href="IMAGE_SLOT_25" id="imaged2314a3585" transform="scale(1 -1) translate(0 -41.4)" x="163.085391" y="-191.906672" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_49"/>
+   <g id="matplotlib.axis_50"/>
+   <g id="patch_141">
+    <path d="M 163.085391 233.306672
+L 163.085391 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_142">
+    <path d="M 218.273167 233.306672
+L 218.273167 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_143">
+    <path d="M 163.085391 233.306672
+L 218.273167 233.306672
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_144">
+    <path d="M 163.085391 191.91584
+L 218.273167 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_26">
+   <g id="patch_145">
+    <path d="M 321.342167 233.306672
+L 376.529942 233.306672
+L 376.529942 191.91584
+L 321.342167 191.91584
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pc5c820ba9a)">
+    <image xlink:href="IMAGE_SLOT_26" id="image3df0ad8a58" transform="scale(1 -1) translate(0 -41.4)" x="321.342167" y="-191.906672" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_51"/>
+   <g id="matplotlib.axis_52"/>
+   <g id="patch_146">
+    <path d="M 321.342167 233.306672
+L 321.342167 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_147">
+    <path d="M 376.529942 233.306672
+L 376.529942 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_148">
+    <path d="M 321.342167 233.306672
+L 376.529942 233.306672
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_149">
+    <path d="M 321.342167 191.91584
+L 376.529942 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_27">
+   <g id="patch_150">
+    <path d="M 479.598942 233.306672
+L 534.786718 233.306672
+L 534.786718 191.91584
+L 479.598942 191.91584
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p1c6464d389)">
+    <image xlink:href="IMAGE_SLOT_27" id="imageb9f4b4ecf1" transform="scale(1 -1) translate(0 -41.4)" x="479.598942" y="-191.906672" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_53"/>
+   <g id="matplotlib.axis_54"/>
+   <g id="patch_151">
+    <path d="M 479.598942 233.306672
+L 479.598942 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_152">
+    <path d="M 534.786718 233.306672
+L 534.786718 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_153">
+    <path d="M 479.598942 233.306672
+L 534.786718 233.306672
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_154">
+    <path d="M 479.598942 191.91584
+L 534.786718 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_28">
+   <g id="patch_155">
+    <path d="M 637.855718 233.306672
+L 693.043493 233.306672
+L 693.043493 191.91584
+L 637.855718 191.91584
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pb34ed3fe20)">
+    <image xlink:href="IMAGE_SLOT_28" id="image09e254185c" transform="scale(1 -1) translate(0 -41.4)" x="637.855718" y="-191.906672" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_55"/>
+   <g id="matplotlib.axis_56"/>
+   <g id="patch_156">
+    <path d="M 637.855718 233.306672
+L 637.855718 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_157">
+    <path d="M 693.043493 233.306672
+L 693.043493 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_158">
+    <path d="M 637.855718 233.306672
+L 693.043493 233.306672
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_159">
+    <path d="M 637.855718 191.91584
+L 693.043493 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_29">
+   <g id="patch_160">
+    <path d="M 796.112493 233.306672
+L 851.300269 233.306672
+L 851.300269 191.91584
+L 796.112493 191.91584
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p326751e1ea)">
+    <image xlink:href="IMAGE_SLOT_29" id="image8f56b66f11" transform="scale(1 -1) translate(0 -41.4)" x="796.112493" y="-191.906672" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_57"/>
+   <g id="matplotlib.axis_58"/>
+   <g id="patch_161">
+    <path d="M 796.112493 233.306672
+L 796.112493 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_162">
+    <path d="M 851.300269 233.306672
+L 851.300269 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_163">
+    <path d="M 796.112493 233.306672
+L 851.300269 233.306672
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_164">
+    <path d="M 796.112493 191.91584
+L 851.300269 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_30">
+   <g id="patch_165">
+    <path d="M 954.369269 233.306672
+L 1009.557044 233.306672
+L 1009.557044 191.91584
+L 954.369269 191.91584
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p07d42b5276)">
+    <image xlink:href="IMAGE_SLOT_30" id="image5743fb9589" transform="scale(1 -1) translate(0 -41.4)" x="954.369269" y="-191.906672" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_59"/>
+   <g id="matplotlib.axis_60"/>
+   <g id="patch_166">
+    <path d="M 954.369269 233.306672
+L 954.369269 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_167">
+    <path d="M 1009.557044 233.306672
+L 1009.557044 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_168">
+    <path d="M 954.369269 233.306672
+L 1009.557044 233.306672
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_169">
+    <path d="M 954.369269 191.91584
+L 1009.557044 191.91584
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_31">
+   <g id="patch_170">
+    <path d="M 72.919448 428.721588
+L 128.107224 428.721588
+L 128.107224 387.330757
+L 72.919448 387.330757
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pd7881350ed)">
+    <image xlink:href="IMAGE_SLOT_31" id="imagecbbe3cddf0" transform="scale(1 -1) translate(0 -41.4)" x="72.919448" y="-387.321588" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_61"/>
+   <g id="matplotlib.axis_62"/>
+   <g id="patch_171">
+    <path d="M 72.919448 428.721588
+L 72.919448 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_172">
+    <path d="M 128.107224 428.721588
+L 128.107224 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_173">
+    <path d="M 72.919448 428.721588
+L 128.107224 428.721588
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_174">
+    <path d="M 72.919448 387.330757
+L 128.107224 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_32">
+   <g id="patch_175">
+    <path d="M 231.176224 428.721588
+L 286.363999 428.721588
+L 286.363999 387.330757
+L 231.176224 387.330757
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pb737a7c5bb)">
+    <image xlink:href="IMAGE_SLOT_32" id="imagebf035764b9" transform="scale(1 -1) translate(0 -41.4)" x="231.176224" y="-387.321588" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_63"/>
+   <g id="matplotlib.axis_64"/>
+   <g id="patch_176">
+    <path d="M 231.176224 428.721588
+L 231.176224 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_177">
+    <path d="M 286.363999 428.721588
+L 286.363999 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_178">
+    <path d="M 231.176224 428.721588
+L 286.363999 428.721588
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_179">
+    <path d="M 231.176224 387.330757
+L 286.363999 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_33">
+   <g id="patch_180">
+    <path d="M 389.432999 428.721588
+L 444.620775 428.721588
+L 444.620775 387.330757
+L 389.432999 387.330757
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p108b6834fd)">
+    <image xlink:href="IMAGE_SLOT_33" id="imaged54b9ff387" transform="scale(1 -1) translate(0 -41.4)" x="389.432999" y="-387.321588" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_65"/>
+   <g id="matplotlib.axis_66"/>
+   <g id="patch_181">
+    <path d="M 389.432999 428.721588
+L 389.432999 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_182">
+    <path d="M 444.620775 428.721588
+L 444.620775 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_183">
+    <path d="M 389.432999 428.721588
+L 444.620775 428.721588
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_184">
+    <path d="M 389.432999 387.330757
+L 444.620775 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_34">
+   <g id="patch_185">
+    <path d="M 547.689775 428.721588
+L 602.87755 428.721588
+L 602.87755 387.330757
+L 547.689775 387.330757
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p66c33a06d1)">
+    <image xlink:href="IMAGE_SLOT_34" id="image2084f38415" transform="scale(1 -1) translate(0 -41.4)" x="547.689775" y="-387.321588" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_67"/>
+   <g id="matplotlib.axis_68"/>
+   <g id="patch_186">
+    <path d="M 547.689775 428.721588
+L 547.689775 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_187">
+    <path d="M 602.87755 428.721588
+L 602.87755 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_188">
+    <path d="M 547.689775 428.721588
+L 602.87755 428.721588
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_189">
+    <path d="M 547.689775 387.330757
+L 602.87755 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_35">
+   <g id="patch_190">
+    <path d="M 705.946551 428.721588
+L 761.134326 428.721588
+L 761.134326 387.330757
+L 705.946551 387.330757
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p9ef01f2fa8)">
+    <image xlink:href="IMAGE_SLOT_35" id="imaged70547085d" transform="scale(1 -1) translate(0 -41.4)" x="705.946551" y="-387.321588" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_69"/>
+   <g id="matplotlib.axis_70"/>
+   <g id="patch_191">
+    <path d="M 705.946551 428.721588
+L 705.946551 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_192">
+    <path d="M 761.134326 428.721588
+L 761.134326 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_193">
+    <path d="M 705.946551 428.721588
+L 761.134326 428.721588
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_194">
+    <path d="M 705.946551 387.330757
+L 761.134326 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_36">
+   <g id="patch_195">
+    <path d="M 864.203326 428.721588
+L 919.391101 428.721588
+L 919.391101 387.330757
+L 864.203326 387.330757
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p3127a14be8)">
+    <image xlink:href="IMAGE_SLOT_36" id="image78889667a5" transform="scale(1 -1) translate(0 -41.4)" x="864.203326" y="-387.321588" width="55.2" height="41.4"/>
+   </g>
+   <g id="matplotlib.axis_71"/>
+   <g id="matplotlib.axis_72"/>
+   <g id="patch_196">
+    <path d="M 864.203326 428.721588
+L 864.203326 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_197">
+    <path d="M 919.391101 428.721588
+L 919.391101 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_198">
+    <path d="M 864.203326 428.721588
+L 919.391101 428.721588
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_199">
+    <path d="M 864.203326 387.330757
+L 919.391101 387.330757
+" style="fill: none; stroke: #e58a16; stroke-width: 1.55; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="text_7" transform="translate(20.25 0)">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(5.346669 108.90115)">(a)</text>
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(-8.287706 120.478884)">00959N</text>
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(-2.135363 132.056618)">Night</text>
+  </g>
+  <g id="text_8" transform="translate(20.25 0)">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(5.141981 237.274578)">(b)</text>
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(-8.254113 248.852313)">00111D</text>
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(2.663075 260.430047)">Day</text>
+  </g>
+  <g id="text_9" transform="translate(20.25 0)">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(5.756825 365.648007)">(c)</text>
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(-8.254113 377.225741)">00345D</text>
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(2.663075 388.803475)">Day</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #667985" x="67.4784" y="457.080263" transform="rotate(-0 67.4784 457.080263)">Orange box: identically cropped magnified region across all six inputs/results.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0c6440f1de">
+   <rect x="67.4784" y="59.461626" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p345d585f93">
+   <rect x="225.735176" y="59.461626" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p9d7bc43367">
+   <rect x="383.991951" y="59.461626" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p7c1f8ad6a8">
+   <rect x="542.248727" y="59.461626" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p4dae07401a">
+   <rect x="700.505502" y="59.461626" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p13d7546635">
+   <rect x="858.762278" y="59.461626" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p26ec2d3cea">
+   <rect x="67.4784" y="187.835054" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p10e4929dbf">
+   <rect x="225.735176" y="187.835054" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p8ddaa2fc0c">
+   <rect x="383.991951" y="187.835054" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p1ca9e7c632">
+   <rect x="542.248727" y="187.835054" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="pa7567da40a">
+   <rect x="700.505502" y="187.835054" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="peb9ec6996c">
+   <rect x="858.762278" y="187.835054" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p21049d860a">
+   <rect x="67.4784" y="316.208483" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p20295cfd57">
+   <rect x="225.735176" y="316.208483" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p48d768d081">
+   <rect x="383.991951" y="316.208483" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="pf45cf2625b">
+   <rect x="542.248727" y="316.208483" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p3185c0b881">
+   <rect x="700.505502" y="316.208483" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p53cffcb107">
+   <rect x="858.762278" y="316.208483" width="155.458522" height="116.593892"/>
+  </clipPath>
+  <clipPath id="p86b290aa4a">
+   <rect x="163.085391" y="130.5839" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p35ed291979">
+   <rect x="321.342167" y="130.5839" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p9ec8d0a223">
+   <rect x="479.598942" y="130.5839" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p6184eb6e72">
+   <rect x="637.855718" y="130.5839" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p51508315f7">
+   <rect x="796.112493" y="130.5839" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="pfb6f7ef668">
+   <rect x="954.369269" y="130.5839" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p5662e0c67e">
+   <rect x="163.085391" y="191.91584" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="pc5c820ba9a">
+   <rect x="321.342167" y="191.91584" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p1c6464d389">
+   <rect x="479.598942" y="191.91584" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="pb34ed3fe20">
+   <rect x="637.855718" y="191.91584" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p326751e1ea">
+   <rect x="796.112493" y="191.91584" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p07d42b5276">
+   <rect x="954.369269" y="191.91584" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="pd7881350ed">
+   <rect x="72.919448" y="387.330757" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="pb737a7c5bb">
+   <rect x="231.176224" y="387.330757" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p108b6834fd">
+   <rect x="389.432999" y="387.330757" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p66c33a06d1">
+   <rect x="547.689775" y="387.330757" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p9ef01f2fa8">
+   <rect x="705.946551" y="387.330757" width="55.187775" height="41.390832"/>
+  </clipPath>
+  <clipPath id="p3127a14be8">
+   <rect x="864.203326" y="387.330757" width="55.187775" height="41.390832"/>
+  </clipPath>
+ </defs>
+</svg>

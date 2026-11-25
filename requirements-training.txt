@@ -1,0 +1,7 @@
+torch==2.1.2
+torchvision==0.16.2
+numpy==1.26.4
+timm==0.9.12
+opencv-contrib-python==4.10.0.84
+matplotlib==3.10.6
+tensorboard==2.20.0
